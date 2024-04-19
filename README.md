@@ -15,3 +15,4 @@ Todo:
 - add divvy data? not sure how useful this is -- maybe just divvy stations
 - add CTA bus routes
 - look into other modes of transportation
+- Analyze "transportation deserts" of Hyde Park - make algorithm to rate a location given distance to other forms of transport
