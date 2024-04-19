@@ -5,10 +5,17 @@ Goals:
 - Potentially integrate other transportation data onto map, such as divvy, etc
 
 
-combined.csv is a csv of the pickup and dropoff csvs merged, so all rides start and end in the given area. use this for analysis.
+combined.csv is a csv of the pickup and dropoff csvs merged, so all rides start and end in the given area. use this for analysis.\
 
-Todo:
-- Look at area of old data, expand area if old area not big enough
+Next:
+- heatmap of lyft data (Darren/Isi)
+- shuttle route integration (Laurel)
+- look into making website (Darren)
+
+
+
+All Todo:
+- Look at area of old data, expand area if old area not big enough -- area good enough for now
 - heatmap
 - shuttle route integration
 - website
